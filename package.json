@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igor5rovic/portfolio.git"
+  },
+  "author": "Igor Petrovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igor5rovic/portfolio/issues"
+  },
+  "homepage": "https://github.com/igor5rovic/portfolio#readme"
+}
